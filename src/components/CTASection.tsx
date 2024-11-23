@@ -10,7 +10,7 @@ export const CTASection = () => (
     </p>
     
     <button 
-      onClick={() => window.open('https://wa.me/your-number', '_blank')}
+      onClick={() => window.open('https://chat.whatsapp.com/KuIQt1BZrBjBJ2jVAupvTs', '_blank')}
       className="group relative inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg font-medium text-white bg-green-600 rounded-full overflow-hidden transition-all duration-300 ease-out hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-offset-2 focus:ring-offset-slate-900"
     >
       <span className="relative flex items-center gap-2">
